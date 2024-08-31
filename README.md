@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Mighty683/Mighty683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am programmer from Poland.
+- 🖌️ My hobby is painting miniatures and playing tabletop games.
+  - [x] Warhammer 40k
+  - [x] Infinity
+  - [x] Kill Team
+  - [x] Warcrow
+- 👨‍🔬 I have experience with Backend, Mobile and Web development.
+  - [x] JS
+  - [x] Dart/Flutter
+  - [x] Java
+  - [ ] C#
+- 🕸️ Currently focusing on Front End development, and have vast knowlegde about JS ecosystem.
+  - [x] React
+  - [x] Vue
+  - [x] Backbone/Marionette
+  - [x] NextJS
+  - [x] React Native
+  - [ ] Svelte
+- 🪴 Developing skills as a team leader. Interested into psychological aspects of building of a performant team.
