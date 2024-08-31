@@ -18,4 +18,4 @@
   - [x] NextJS
   - [x] React Native
   - [ ] Svelte
-- 🪴 Developing skills as a team leader. Interested into psychological aspects of building of a performant team.
+- 🪴 Developing skills as a team leader.
