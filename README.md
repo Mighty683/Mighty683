@@ -7,11 +7,12 @@
   - [x] Kill Team
   - [x] Warcrow
 - 👨‍🔬 I have experience with Backend, Mobile and Web development.
-  - [x] JS
+  - [x] JS/TS
   - [x] Dart/Flutter
   - [x] Java
   - [ ] C#
-- 🕸️ Currently focusing on Front End development, and have vast knowlegde about JS ecosystem.
+  - [ ] Rust
+- 🕸️ Currently focusing on Front End development, and have vast experience with JS ecosystem.
   - [x] React
   - [x] Vue
   - [x] Backbone/Marionette
