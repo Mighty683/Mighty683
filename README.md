@@ -10,8 +10,8 @@
   - [x] JS/TS
   - [x] Dart/Flutter
   - [x] Java
-  - [ ] 🪴 C# - In Progress
-  - [ ] 🪴 Rust - In Progress
+  - [ ] 🪴 C#
+  - [ ] 🪴 Rust
 - 🕸️ Currently focusing on Front End development, and have vast experience with JS ecosystem.
   - [x] React
   - [x] Vue
