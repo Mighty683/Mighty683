@@ -10,13 +10,15 @@
   - [x] JS/TS
   - [x] Dart/Flutter
   - [x] Java
-  - [ ] C# - In Progress
-  - [ ] Rust - In Progress
+  - [ ] 🪴 C# - In Progress
+  - [ ] 🪴 Rust - In Progress
 - 🕸️ Currently focusing on Front End development, and have vast experience with JS ecosystem.
   - [x] React
   - [x] Vue
   - [x] Backbone/Marionette
   - [x] NextJS
   - [x] React Native
-  - [ ] Svelte - In Progress
-- 🪴 Developing skills as a team leader.
+  - [ ] 🪴 Svelte
+
+**Legend:**
+- 🪴 Developing skill
