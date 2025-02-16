@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 **Legend:**
-- 🪴 Developing skill
-- 🎯 Mastered
+  - 🪴 Developing skill
+  - 🎯 Mastered
 
+**About Me:**
 - 💻 I am programmer from Poland. My main focus area is Front-end but I try to develop also in different directions.
 - 🖌️ My hobby is painting miniatures and playing tabletop games.
   - [x] Warhammer 40k
