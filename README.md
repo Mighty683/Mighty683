@@ -15,7 +15,6 @@
   - [x] 🎯 JS/TS
   - [x] Dart/Flutter
   - [x] Java
-  - [ ] 🪴 C# - Creating my first game using C# and Godot
   - [ ] 🪴 Rust
 - 🕸️ Currently focusing on Front End development, and have vast experience with JS ecosystem.
   - [x] 🎯 React
