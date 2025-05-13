@@ -6,11 +6,6 @@
 
 **About Me:**
 - 💻 I am programmer from Poland. My main focus area is Front-end but I try to develop also in different directions.
-- 🖌️ My hobby is painting miniatures and playing tabletop games.
-  - [x] Warhammer 40k
-  - [x] Infinity
-  - [x] Kill Team
-  - [x] Warcrow
 - 👨‍🔬 I have experience with Backend, Mobile and Web development.
   - [x] 🎯 JS/TS
   - [x] Dart/Flutter
@@ -23,3 +18,8 @@
   - [x] NextJS
   - [x] React Native
   - [ ] 🪴 Svelte
+- 🖌️ My hobby is painting miniatures and playing tabletop games.
+  - [x] Warhammer 40k
+  - [x] Infinity
+  - [x] Kill Team
+  - [x] Warcrow
